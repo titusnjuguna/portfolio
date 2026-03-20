@@ -28,12 +28,12 @@ export default function Skills2() {
 													{/* Carausel Scroll */}
 													<Marquee className="carouselTicker carouselTicker-right position-relative z-1" direction="right">
 														<ul className="carouselTicker__list m-0">
-															<li className="carouselTicker__item mt-6">
+															{/* <li className="carouselTicker__item mt-6">
 																<Link href="#" className="brand-logo icon_80 icon-shape rounded-3">
 																	<img src="assets/imgs/home-page-2/hero-1/icon-4.svg" alt="brand" />
 																</Link>
 																<span className="tool-tip">NodeJS</span>
-															</li>
+															</li> */}
 															<li className="carouselTicker__item mt-6">
 																<Link href="#" className="brand-logo icon_80 icon-shape rounded-3">
 																	<img src="assets/imgs/home-page-2/hero-1/icon-1.svg" alt="brand" />
@@ -77,7 +77,7 @@ export default function Skills2() {
 																</Link>
 																<span className="tool-tip">Angular</span>
 															</li>
-															<li className="carouselTicker__item mt-6">
+															{/* <li className="carouselTicker__item mt-6">
 																<Link href="#" className="brand-logo icon_80 icon-shape rounded-3">
 																	<img src="assets/imgs/home-page-2/hero-1/icon-9.svg" alt="brand" />
 																</Link>
@@ -88,7 +88,7 @@ export default function Skills2() {
 																	<img src="assets/imgs/home-page-2/hero-1/icon-5.svg" alt="brand" />
 																</Link>
 																<span className="tool-tip">Tailwind</span>
-															</li>
+															</li> */}
 														</ul>
 													</Marquee>
 												</div>
@@ -108,7 +108,13 @@ export default function Skills2() {
 															<li className="mb-3">
 																<div className="d-flex flex-column flex-md-row gap-2">
 																	<p className="text-dark text-nowrap mb-0">Back-End:</p>
-																	<span className="text-300">Node.js, Express, Python, Django</span>
+																	<span className="text-300">Python, FastAPI,Flask,Django</span>
+																</div>
+															</li>
+															<li className="mb-3">
+																<div className="d-flex flex-column flex-md-row gap-2">
+																	<p className="text-dark text-nowrap mb-0">AI & Automation:</p>
+																	<span className="text-300">LangChain,LangGraph,Openclawd,Claude Code</span>
 																</div>
 															</li>
 															<li className="mb-3">

@@ -33,7 +33,7 @@ export default function Home2() {
 											&lt;/span&gt;
 										</div>
 										<h1 className="fs-50 my-3">Experienced <br/> <span className="text-linear-4">{'{'}Software Engineer{'}'}</span><span className="flicker">_</span></h1>
-										<p className="mb-6 text-secondary-2">&lt;p&gt;<span className="text-dark">With expertise in cutting-edge technologies such as</span> <span className="text-secondary-2">Python</span>, <span className="text-secondary-2">Golang</span>, <span className="text-secondary-2">Vue3</span>, and <span className="text-secondary-2">Laravel</span><span className="text-dark">... I deliver web solutions that are both innovative and robust.</span>&lt;/p&gt;</p>
+										<p className="mb-6 text-secondary-2">&lt;p&gt;<span className="text-dark">With expertise in cutting-edge technologies such as</span> <span className="text-secondary-2">Python</span>, <span className="text-secondary-2">Golang</span>, <span className="text-secondary-2">Vue3</span><span className="text-dark">... I deliver web solutions that are both innovative and robust.</span>&lt;/p&gt;</p>
 										<div className="row">
 											<div className="col-7">
 												{/* Carausel Scroll */}
